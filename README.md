@@ -2,4 +2,7 @@
 Weather App
 
 
-<a src="https://omkar17coder.github.io/Torrential-Downpour/">Weather App _Link </a>
+### 🏠 [Homepage](https://omkar17coder.github.io/Torrential-Downpour/)
+
+### ✨ [Demo](https://omkar17coder.github.io/Torrential-Downpour/)
+
